@@ -1,0 +1,6 @@
+{
+  "name": "Extensão Saúde — Campanha Influenza & Validador Certificado Nº 08",
+  "description": "Portal oficial da Campanha Educativa de Incentivo à Imunização de Grupos Prioritários (Influenza e Atualização da Caderneta), com visualizador PDF e validador público do Certificado de Extensão Nº 08.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
